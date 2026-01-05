@@ -30,9 +30,7 @@ If the matrix contains **4 or more zeros**, it is classified as sparse.
 **Matrix Input:**
 
 0 0 1
-
 5 4 6
-
 0 0 9
 
 **Analysis:**
